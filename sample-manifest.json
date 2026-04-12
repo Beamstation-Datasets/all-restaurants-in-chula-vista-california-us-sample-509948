@@ -1,0 +1,12 @@
+{
+  "export_job_id": "0aab30c9-86c6-48d3-92cb-1d68208f23a0",
+  "id_short": 509948,
+  "published_at": "2026-04-12T19:36:10Z",
+  "repo_name": "all-restaurants-in-chula-vista-california-us-sample-509948",
+  "sample_asset_name": "beamstation_509948_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/509948/beamstation_509948_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_records": 60,
+  "sample_sha256": "968db9da151fdf206f5c4c202df6d634472091eb5202b3a98c56a7abe385d80d",
+  "sample_size_bytes": 230869,
+  "total_records": 605
+}
