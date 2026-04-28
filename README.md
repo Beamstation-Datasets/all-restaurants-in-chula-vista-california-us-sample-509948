@@ -1,6 +1,6 @@
 # All Restaurants in Chula Vista, California, US
 
-> Free BeamStation sample export with 53 rows and masked direct-contact fields.
+> Free BeamStation sample export with 58 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `509948` |
 | Location | Chula Vista |
 | Category | Restaurants |
-| Full dataset size | 532 records |
-| Free sample size | 53 records (9.96%) |
-| Last export | 2026-04-21T10:15:59.218185+00:00 |
+| Full dataset size | 581 records |
+| Free sample size | 58 records (9.98%) |
+| Last export | 2026-04-28T10:42:04.965292+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-chula-vista-california-us-sample-509948/releases/download/sample-latest/beamstation_509948_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
